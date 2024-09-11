@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">lab1Quote</string>
     <string name="person">Mario</string>
-    <string name='quote'>Lets a Gooooo</string>
+    <string name='quote'> \"Lets a Goooo\"  </string>
 </resources>
